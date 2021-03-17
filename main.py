@@ -26,5 +26,3 @@ def get_weather_results(zip_code, api_key):
          " data/2.5/weather?zip={}&appid={}".format(zip_code, api_key)
     r = request.get(api_url)
     return r.json()
-
-#print(get_weather_results("07009",get_api_key()))
