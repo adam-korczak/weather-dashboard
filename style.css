@@ -1,0 +1,18 @@
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    display: table;
+    margin: 5px auto 5px auto;
+    padding:5px;font-size:20px;background-color:rgb(221, 67, 67);color:#ffffff;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    
+}
+
+input {
+    padding: 4px;
+    margin: 5px;
+}
